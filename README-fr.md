@@ -20,11 +20,11 @@ Il est possible de faire appel a des jours de consulting pour l'implementation.
 
 # Consignes
   * Windows :
-    * Placer le fichier `kafkaJob.py` dans le repertoire `%ABM_BIN%` (ou votre repertoire de scripts)
+    * Placer le fichier `kafkaJob.py` dans le repertoire `%ABM_BIN%`
     * Declarer la queue / application custom sur l'agent (voir guide administrateur)
 
   * Linux/Unix :
-    * Placer le fichier `kafkaJob.py` dans le repertoire `$TOM_ADMIN` (ou votre repertoire de scripts)
+    * Placer le fichier `kafkaJob.py` dans le repertoire `$TOM_ADMIN`
     * Declarer la queue / application custom sur l'agent (voir guide administrateur)
 
   * Creer un Contexte Kafka et definir les variables d'environnement suivantes :

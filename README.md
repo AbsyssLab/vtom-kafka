@@ -20,11 +20,11 @@ Consulting days can be requested for implementation.
 
 # Instructions
   * Windows :
-    * Place the file `kafkaJob.py` in the `%ABM_BIN%` directory (or your scripts directory)
+    * Place the file `kafkaJob.py` in the `%ABM_BIN%` directory
     * Declare the queue / custom application on the agent (see administrator guide)
 
   * Linux/Unix :
-    * Place the file `kafkaJob.py` in the `$TOM_ADMIN` directory (or your scripts directory)
+    * Place the file `kafkaJob.py` in the `$TOM_ADMIN` directory
     * Declare the queue / custom application on the agent (see administrator guide)
 
   * Create a Kafka Context and define the following environment variables:
