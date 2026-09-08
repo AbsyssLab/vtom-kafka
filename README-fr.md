@@ -11,7 +11,7 @@ Absyss SAS ne peut etre tenu responsable des dommages causes par l'utilisation d
 
 Il est possible de faire appel a des jours de consulting pour l'implementation.
 
-# Preacquis
+# Prerequis
 
   * Visual TOM 7.3.2 ou plus
   * Python 3.x ou plus
